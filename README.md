@@ -1,6 +1,12 @@
 # Leistungsnachweis_2
 Leistungsnachweis 2
 
-Dave Brunner
+Wir werten die folgenden Daten aus:
 
-asdfasdfasdf
+Gruppenmitglieder:
+
+David Brunner []
+
+Dennis Bailer [baileden@students.zhaw.ch]
+
+Noemie Frochaux []
