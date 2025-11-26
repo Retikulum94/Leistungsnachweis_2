@@ -1,6 +1,5 @@
 # Leistungsnachweis_2
 Leistungsnachweis 2
 
-Dave Brunner
-
-asdfasdfasdf
+David Brunner brunndav@students.zhaw.ch
+Dennis Bailer baileden@students.zhaw.ch
