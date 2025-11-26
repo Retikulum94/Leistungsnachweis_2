@@ -5,8 +5,8 @@ Wir werten die folgenden Daten aus:
 
 Gruppenmitglieder:
 
-David Brunner []
+David Brunner [brunndav@students.zhaw.ch]
 
 Dennis Bailer [baileden@students.zhaw.ch]
 
-Noemie Frochaux []
+Noemie Frochaux [frochnoe@students.zhaw.ch]
