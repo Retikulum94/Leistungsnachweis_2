@@ -1,5 +1,4 @@
 # Leistungsnachweis_2
-## Leistungsnachweis 2
 
 Wir werten die folgenden Daten aus:
 
