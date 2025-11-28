@@ -1,8 +1,8 @@
 # Leistungsnachweis_2
-## Lebenserwartung und Impfung
+## Prävalenz von Infektionskrankheiten im Verlauf der Zeit
 
-Wir analysieren die Lebenserwartung und recherchieren nach, was Impfungen dabei für eine Rolle spielen.
-https://ourworldindata.org/grapher/life-expectancy
+Wir stellen die Prävalen von versciedenen Infektionskrankheiten dar und suchen nach erklärungen für zu und Abnahme.
+https://ourworldindata.org/grapher/the-number-of-cases-of-infectious-diseases
 
 
 ## Gruppenmitglieder:
