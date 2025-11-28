@@ -1,7 +1,7 @@
 # Leistungsnachweis_2
 ## Prävalenz von Infektionskrankheiten im Verlauf der Zeit
 
-Wir stellen die Prävalen von versciedenen Infektionskrankheiten dar und suchen nach erklärungen für zu und Abnahme.
+Wir stellen die Prävalenz von verschiedenen Infektionskrankheiten dar und suchen nach Erklärungen für Zu- und Abnahme.
 
 Datenquelle:
 https://ourworldindata.org/grapher/the-number-of-cases-of-infectious-diseases
