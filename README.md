@@ -1,6 +1,8 @@
 # Leistungsnachweis_2
 
-Wir werten die folgenden Daten aus:
+Wir analysieren die Lebenserwartung und recherchieren nach, was Impfungen dabei für eine Rolle spielen.
+https://ourworldindata.org/grapher/life-expectancy
+
 
 ## Gruppenmitglieder:
 
