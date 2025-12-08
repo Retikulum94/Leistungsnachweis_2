@@ -1,0 +1,359 @@
+Year:,Disease:,Prevalence:
+1920,Smallpox,401318
+1921,Smallpox,303850
+1922,Smallpox,190159
+1923,Smallpox,174799
+1924,Smallpox,186354
+1925,Smallpox,284845
+1926,Smallpox,324125
+1927,Smallpox,327289
+1928,Smallpox,272529
+1929,Smallpox,267322
+1930,Smallpox,360575
+1931,Smallpox,182829
+1932,Smallpox,211274
+1933,Smallpox,328212
+1934,Smallpox,327373
+1935,Smallpox,331151
+1936,Smallpox,263579
+1937,Smallpox,149184
+1938,Smallpox,144042
+1939,Smallpox,186393
+1940,Smallpox,253820
+1941,Smallpox,195863
+1942,Smallpox,124504
+1943,Smallpox,210358
+1944,Smallpox,407525
+1945,Smallpox,405833
+1946,Smallpox,302694
+1947,Smallpox,163375
+1948,Smallpox,161893
+1949,Smallpox,632858
+1950,Smallpox,426006
+1951,Smallpox,554756
+1952,Smallpox,167085
+1953,Smallpox,94135
+1954,Smallpox,99232
+1955,Smallpox,91823
+1956,Smallpox,96089
+1957,Smallpox,156652
+1958,Smallpox,280475
+1959,Smallpox,96270
+1960,Smallpox,67146
+1961,Smallpox,90555
+1962,Smallpox,98757
+1963,Smallpox,133504
+1964,Smallpox,76198
+1965,Smallpox,112280
+1966,Smallpox,92804
+1967,Smallpox,131697
+1968,Smallpox,80024
+1969,Smallpox,54202
+1970,Smallpox,33706
+1971,Smallpox,52806
+1972,Smallpox,65153
+1973,Smallpox,135859
+1974,Smallpox,218367
+1975,Smallpox,19278
+1976,Smallpox,954
+1977,Smallpox,3234
+1978,Smallpox,2
+1949,Cholera,17
+1950,Cholera,34665
+1951,Cholera,114518
+1952,Cholera,123025
+1953,Cholera,240927
+1954,Cholera,37804
+1955,Cholera,40218
+1956,Cholera,63542
+1957,Cholera,63031
+1958,Cholera,95763
+1959,Cholera,36138
+1960,Cholera,38130
+1961,Cholera,61966
+1962,Cholera,68727
+1963,Cholera,59437
+1964,Cholera,95938
+1965,Cholera,56609
+1966,Cholera,31146
+1967,Cholera,24748
+1968,Cholera,34164
+1969,Cholera,36173
+1970,Cholera,36994
+1971,Cholera,176058
+1972,Cholera,80248
+1973,Cholera,108788
+1974,Cholera,97635
+1975,Cholera,93055
+1976,Cholera,68619
+1977,Cholera,63276
+1978,Cholera,77678
+1979,Cholera,57645
+1980,Cholera,42776
+1981,Cholera,51631
+1982,Cholera,64925
+1983,Cholera,65251
+1984,Cholera,29324
+1985,Cholera,45279
+1986,Cholera,52738
+1987,Cholera,56105
+1988,Cholera,53920
+1989,Cholera,54104
+1990,Cholera,74764
+1991,Cholera,595334
+1992,Cholera,492964
+1993,Cholera,380714
+1994,Cholera,385406
+1995,Cholera,214802
+1996,Cholera,144727
+1997,Cholera,149416
+1998,Cholera,298764
+1999,Cholera,263085
+2000,Cholera,143944
+2001,Cholera,186112
+2002,Cholera,142306
+2003,Cholera,111569
+2004,Cholera,101381
+2005,Cholera,131879
+2006,Cholera,236773
+2007,Cholera,178678
+2008,Cholera,190130
+2009,Cholera,221226
+2010,Cholera,317528
+2011,Cholera,589854
+2012,Cholera,245393
+2013,Cholera,129067
+2014,Cholera,190549
+2015,Cholera,172454
+2016,Cholera,132113
+2017,Cholera,1230000
+2018,Cholera,499447
+2019,Cholera,923037
+2020,Cholera,323369
+2021,Cholera,223370
+1980,Paralytic polio,368410
+1981,Paralytic polio,460159
+1982,Paralytic polio,361396
+1983,Paralytic polio,279811
+1984,Paralytic polio,245588
+1985,Paralytic polio,269381
+1986,Paralytic polio,229922
+1987,Paralytic polio,277781
+1988,Paralytic polio,242319
+1989,Paralytic polio,182728
+1990,Paralytic polio,161371
+1991,Paralytic polio,92918
+1992,Paralytic polio,107128
+1993,Paralytic polio,73500
+1994,Paralytic polio,60662
+1995,Paralytic polio,49301
+1996,Paralytic polio,28490
+1997,Paralytic polio,36302
+1998,Paralytic polio,44429
+1999,Paralytic polio,49987
+2000,Paralytic polio,20797
+2001,Paralytic polio,3472
+2002,Paralytic polio,13454
+2003,Paralytic polio,5488
+2004,Paralytic polio,8799
+2005,Paralytic polio,14210
+2006,Paralytic polio,14154
+2007,Paralytic polio,9709
+2008,Paralytic polio,12152
+2009,Paralytic polio,12509
+2010,Paralytic polio,9884
+2011,Paralytic polio,5012
+2012,Paralytic polio,2051
+2013,Paralytic polio,3367
+2014,Paralytic polio,2905
+2015,Paralytic polio,742
+2016,Paralytic polio,294
+2017,Paralytic polio,826
+2018,Paralytic polio,966
+2019,Paralytic polio,3878
+2020,Paralytic polio,8771
+2021,Paralytic polio,4858
+2022,Paralytic polio,6370
+2023,Paralytic polio,3752
+1990,Malaria,217410000
+1991,Malaria,219090000
+1992,Malaria,221030000
+1993,Malaria,222710000
+1994,Malaria,225290000
+1995,Malaria,228990000
+1996,Malaria,233990000
+1997,Malaria,239610000
+1998,Malaria,243290000
+1999,Malaria,245160000
+2000,Malaria,244030000
+2001,Malaria,250090000
+2002,Malaria,246800000
+2003,Malaria,251960000
+2004,Malaria,257350000
+2005,Malaria,256230000
+2006,Malaria,251270000
+2007,Malaria,250390000
+2008,Malaria,250620000
+2009,Malaria,253760000
+2010,Malaria,255910000
+2011,Malaria,250640000
+2012,Malaria,242880000
+2013,Malaria,235430000
+2014,Malaria,229440000
+2015,Malaria,230050000
+2016,Malaria,232730000
+2017,Malaria,235190000
+2018,Malaria,235400000
+2019,Malaria,238820000
+2020,Malaria,244890000
+2021,Malaria,249120000
+1990,Tuberculosis,8600000
+1991,Tuberculosis,8740000
+1992,Tuberculosis,8870000
+1993,Tuberculosis,8980000
+1994,Tuberculosis,9070000
+1995,Tuberculosis,9160000
+1996,Tuberculosis,9210000
+1997,Tuberculosis,9190000
+1998,Tuberculosis,9140000
+1999,Tuberculosis,9080000
+2000,Tuberculosis,9070000
+2001,Tuberculosis,9080000
+2002,Tuberculosis,9080000
+2003,Tuberculosis,9070000
+2004,Tuberculosis,9060000
+2005,Tuberculosis,9050000
+2006,Tuberculosis,9030000
+2007,Tuberculosis,8960000
+2008,Tuberculosis,8870000
+2009,Tuberculosis,8780000
+2010,Tuberculosis,8710000
+2011,Tuberculosis,8640000
+2012,Tuberculosis,8550000
+2013,Tuberculosis,8450000
+2014,Tuberculosis,8370000
+2015,Tuberculosis,8330000
+2016,Tuberculosis,8320000
+2017,Tuberculosis,8320000
+2018,Tuberculosis,8330000
+2019,Tuberculosis,8370000
+2020,Tuberculosis,8440000
+2021,Tuberculosis,8410000
+1990,HIV/AIDS,2010000
+1991,HIV/AIDS,2260000
+1992,HIV/AIDS,2460000
+1993,HIV/AIDS,2610000
+1994,HIV/AIDS,2730000
+1995,HIV/AIDS,2860000
+1996,HIV/AIDS,2970000
+1997,HIV/AIDS,3020000
+1998,HIV/AIDS,2980000
+1999,HIV/AIDS,2890000
+2000,HIV/AIDS,2770000
+2001,HIV/AIDS,2640000
+2002,HIV/AIDS,2520000
+2003,HIV/AIDS,2400000
+2004,HIV/AIDS,2300000
+2005,HIV/AIDS,2220000
+2006,HIV/AIDS,2170000
+2007,HIV/AIDS,2140000
+2008,HIV/AIDS,2120000
+2009,HIV/AIDS,2100000
+2010,HIV/AIDS,2110000
+2011,HIV/AIDS,2090000
+2012,HIV/AIDS,2090000
+2013,HIV/AIDS,2080000
+2014,HIV/AIDS,2070000
+2015,HIV/AIDS,2050000
+2016,HIV/AIDS,2010000
+2017,HIV/AIDS,1950000
+2018,HIV/AIDS,1890000
+2019,HIV/AIDS,1810000
+2020,HIV/AIDS,1730000
+2021,HIV/AIDS,1650000
+2008,Yaws,56223
+2009,Yaws,69467
+2010,Yaws,80226
+2011,Yaws,51101
+2012,Yaws,49375
+2013,Yaws,58915
+2014,Yaws,50584
+2015,Yaws,46062
+2016,Yaws,59307
+1990,Rabies,22035
+1991,Rabies,22416
+1992,Rabies,22554
+1993,Rabies,22593
+1994,Rabies,22478
+1995,Rabies,22256
+1996,Rabies,22427
+1997,Rabies,22081
+1998,Rabies,21454
+1999,Rabies,20417
+2000,Rabies,19467
+2001,Rabies,19637
+2002,Rabies,19366
+2003,Rabies,19173
+2004,Rabies,18915
+2005,Rabies,18408
+2006,Rabies,18466
+2007,Rabies,17921
+2008,Rabies,16944
+2009,Rabies,15768
+2010,Rabies,14622
+2011,Rabies,14380
+2012,Rabies,13969
+2013,Rabies,13216
+2014,Rabies,12520
+2015,Rabies,11870
+2016,Rabies,11783
+2017,Rabies,11557
+2018,Rabies,11086
+2019,Rabies,10665
+2020,Rabies,10352
+2021,Rabies,10181
+1980,Guinea worm,35894
+1981,Guinea worm,18741
+1982,Guinea worm,51765
+1983,Guinea worm,56520
+1984,Guinea worm,75797
+1985,Guinea worm,55173
+1986,Guinea worm,46043
+1987,Guinea worm,260140
+1988,Guinea worm,758217
+1989,Guinea worm,892055
+1990,Guinea worm,623579
+1991,Guinea worm,543585
+1992,Guinea worm,374202
+1993,Guinea worm,229773
+1994,Guinea worm,164977
+1995,Guinea worm,129852
+1996,Guinea worm,152814
+1997,Guinea worm,77863
+1998,Guinea worm,78557
+1999,Guinea worm,96293
+2000,Guinea worm,75223
+2001,Guinea worm,63718
+2002,Guinea worm,54638
+2003,Guinea worm,32193
+2004,Guinea worm,16026
+2005,Guinea worm,10674
+2006,Guinea worm,25217
+2007,Guinea worm,9589
+2008,Guinea worm,4619
+2009,Guinea worm,3190
+2010,Guinea worm,1797
+2011,Guinea worm,1058
+2012,Guinea worm,542
+2013,Guinea worm,148
+2014,Guinea worm,126
+2015,Guinea worm,22
+2016,Guinea worm,25
+2017,Guinea worm,30
+2018,Guinea worm,28
+2019,Guinea worm,54
+2020,Guinea worm,27
+2021,Guinea worm,15
+2022,Guinea worm,13
+2023,Guinea worm,14
+2024,Guinea worm,15
